@@ -1,0 +1,10 @@
+# requirements.in
+# 這是我們手動維護的檔案，只記錄直接依賴。
+
+Django
+djangorestframework
+gunicorn
+psycopg2-binary
+Pillow
+django-cors-headers
+openpyxl
